@@ -1,1 +1,1 @@
-# Apollo-MCP-Server-Integration-Within-Claude-Desktop
+# MCP Server Integration Within Claude Desktop Instructions
